@@ -1,0 +1,53 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    background-color :rgb(255, 140, 0);
+    border-radius: 15%;
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-image: url(./images/watercolor-rainbow-background_23-2149536506.avif);
+    
+  }
+  
+  h3 {
+    margin: 30px;
+    font-family: 'Chivo', sans-serif;;
+    text-shadow: 3px 0 #ffffff;
+    font-size: 4rem;
+    color: #050000;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family:'Fjalla One', sans-serif;;
+    text-shadow: 5px 0 #fffafa;
+    font-size: 8rem;
+    color: #282727;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #000000;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  footer {
+    font-size:xx-large;
+    margin-top: 5%;
+    color: #000000e5;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
